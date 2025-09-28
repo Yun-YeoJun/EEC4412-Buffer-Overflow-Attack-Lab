@@ -2,7 +2,7 @@
 
 2025년 2학기 인하대학교 전기전자공학부 <a href="https://abeek.inha.ac.kr/01_prof/01_portfolio/PlanPrintInfo.aspx?CurrSeq=155546&ViewState=N">EEC4412 정보보호론</a> 수업의 Buffer-Overflow Attack Lab 과제 풀이가 담긴 저장소입니다.
 <br><br>
-온라인에 공개된 "<a href="https://seedsecuritylabs.org/Labs_20.04/Files/Buffer_Overflow_Server/Buffer_Overflow_Server.pdf">SEED Labs - Buffer Overflow Attack Lab (Server Version)</a>" 문제를 일부 변형하여 출제되었습니다. 실습 환경 코드는 <a href="https://seedsecuritylabs.org/Labs_20.04/Files/Buffer_Overflow_Server/Labsetup.zip">이 링크</a>에 방문하면 볼 수 있습니다.
+온라인에 공개된 "<a href="https://seedsecuritylabs.org/Labs_20.04/Files/Buffer_Overflow_Server/Buffer_Overflow_Server.pdf">SEED Labs - Buffer Overflow Attack Lab (Server Version)</a>" 문제가 일부 변형되어 출제되었습니다. 실습 환경 코드는 <a href="https://seedsecuritylabs.org/Labs_20.04/Files/Buffer_Overflow_Server/Labsetup.zip">이 링크</a>에 방문하면 볼 수 있습니다.
 <br><br>
 실습은 Google Cloud Compute Engine e2-small x86_64, Ubuntu 20.04를 사용하여 진행되었습니다.
 
